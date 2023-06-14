@@ -1,0 +1,13 @@
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\bin\Release\giaodien.exe.config
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\bin\Release\giaodien.exe
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\bin\Release\giaodien.pdb
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.csproj.AssemblyReference.cache
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.DangNhap.resources
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.DangKy.resources
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.Home.resources
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.Properties.Resources.resources
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.csproj.GenerateResource.cache
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.exe
+C:\Users\Nguyen Hoai\Desktop\.vs\dự trữ\giaodien\giaodien\obj\Release\giaodien.pdb
