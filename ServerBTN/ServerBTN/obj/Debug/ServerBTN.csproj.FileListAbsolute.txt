@@ -1,0 +1,8 @@
+E:\c#\lập trình mạng\ServerBTN\ServerBTN\bin\Debug\ServerBTN.exe.config
+E:\c#\lập trình mạng\ServerBTN\ServerBTN\bin\Debug\ServerBTN.exe
+E:\c#\lập trình mạng\ServerBTN\ServerBTN\bin\Debug\ServerBTN.pdb
+E:\c#\lập trình mạng\ServerBTN\ServerBTN\obj\Debug\ServerBTN.csproj.AssemblyReference.cache
+E:\c#\lập trình mạng\ServerBTN\ServerBTN\obj\Debug\ServerBTN.csproj.SuggestedBindingRedirects.cache
+E:\c#\lập trình mạng\ServerBTN\ServerBTN\obj\Debug\ServerBTN.csproj.CoreCompileInputs.cache
+E:\c#\lập trình mạng\ServerBTN\ServerBTN\obj\Debug\ServerBTN.exe
+E:\c#\lập trình mạng\ServerBTN\ServerBTN\obj\Debug\ServerBTN.pdb
